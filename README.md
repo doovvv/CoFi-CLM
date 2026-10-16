@@ -45,4 +45,13 @@ Python 3.10 or later and PyTorch 2.6 or later.
 
 ## Citation
 
-Citation information will be added after publication.
+If you find this work useful, please cite:
+
+```bibtex
+@article{zhang2026cofi,
+  title={CoFi-CLM: A Coarse-to-Fine Channel Language Model for Finite-Bit CSI Feedback},
+  author={Zhang, Chao and Luo, Cheng and Xiang, Luping and Yang, Kun},
+  journal={arXiv preprint arXiv:2609.15865},
+  year={2026}
+}
+```
