@@ -1,7 +1,9 @@
 # CoFi-CLM: A Coarse-to-Fine Channel Language Model for Finite-Bit CSI Feedback
 
-This repository accompanies the paper **"CoFi-CLM: A Coarse-to-Fine Channel
-Language Model for Finite-Bit CSI Feedback"**, which is currently under review.
+[![arXiv](https://img.shields.io/badge/arXiv-2609.15865-b31b1b.svg)](https://arxiv.org/abs/2609.15865)
+
+This repository accompanies the paper
+[**"CoFi-CLM: A Coarse-to-Fine Channel Language Model for Finite-Bit CSI Feedback"**](https://arxiv.org/abs/2609.15865), which is currently under review.
 
 > **Release status.** This is a preview release of the core CoFi-CLM framework.
 > It contains the model architecture and the training objective described in the
@@ -45,7 +47,7 @@ Python 3.10 or later and PyTorch 2.6 or later.
 
 ## Citation
 
-If you find this work useful, please cite:
+If you find this work useful in your research, please cite:
 
 ```bibtex
 @article{zhang2026cofi,
